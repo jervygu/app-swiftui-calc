@@ -6,4 +6,4 @@
 
 | UI | 
 | --- | 
-| ![](https://github.com/jervygu/app-pubg101/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2012%20-%20a.png) |
+| ![](https://github.com/jervygu/app-swiftui-calc/blob/master/screenshots/Screen%20Shot%202021-07-12%20at%207.26.55%20PM.png) |
