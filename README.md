@@ -1,4 +1,5 @@
 # app-swiftui-calc
+Basic calculator written in SwiftUI.
 
 
 ## Screenshots
